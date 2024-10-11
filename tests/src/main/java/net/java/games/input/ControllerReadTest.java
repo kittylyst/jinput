@@ -41,7 +41,6 @@ import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Container;
 import java.awt.GridLayout;
-import java.io.Serial;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
